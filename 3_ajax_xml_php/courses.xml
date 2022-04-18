@@ -1,0 +1,25 @@
+<CATALOG>
+   <SUBJECT>
+      <COURSE>Python</COURSE>
+      <COUNTRY>India</COUNTRY>
+      <COMPANY>learnetutorials.com</COMPANY>
+   </SUBJECT>
+   
+   <SUBJECT>
+      <COURSE>PHP</COURSE>
+      <COUNTRY>India</COUNTRY>
+      <COMPANY>learnetutorials.com</COMPANY>
+   </SUBJECT>
+   
+   <SUBJECT>
+      <COURSE>JavaScript</COURSE>
+      <COUNTRY>India</COUNTRY>
+      <COMPANY>learnetutorials.com</COMPANY>
+   </SUBJECT>
+   
+   <SUBJECT>
+      <COURSE>GO</COURSE>
+      <COUNTRY>India</COUNTRY>
+      <COMPANY>learnetutorials.com</COMPANY>
+   </SUBJECT>
+</CATALOG>
